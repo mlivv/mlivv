@@ -2,7 +2,7 @@
 ### Hi thereee! :)👋<br><br>I'm Milena, a passionate junior front-end developer. My journey into the world of technology began during high school when I studied Graphic Design. <br>As I explored university options, I discovered a deep fascination with how people engage with technology in today's world. <br>This curiosity inspired me to enroll in a bootcamp to become a front-end developer, so here I am!!
 
 Please note that my GitHub profile is currently a work in progress.
-I'm currently less active on GitHub as I'm dedicating my time to taking a course to learn backend development. I'm deepening my knowledge in Java, MySQL, and other related technologies. I'll be back to active contribution soon. Thank you for your understanding and patience!
+I'm currently less active on GitHub as I'm dedicating my time to taking a course to learn backend development with Generation Italy. I'm deepening my knowledge in Java, MySQL, and other related technologies. I'll be back to active contribution soon. Thank you for your understanding and patience!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/milena-livian-front-end-developer/) 
