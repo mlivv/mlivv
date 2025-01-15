@@ -1,9 +1,6 @@
 # 💫 About Me:
 ### Hi thereee! :)👋<br><br>I'm Milena, a passionate junior front-end developer. My journey into the world of technology began during high school when I studied Graphic Design. <br>I discovered a deep fascination with how people engage with technology in today's world: this curiosity inspired me to enroll in a bootcamp to become a front-end developer, and expand my programming knowledge by learning Java and backend development.
 
-Please note that my GitHub profile is currently a work in progress.
-I'm currently less active on GitHub as I'm dedicating my time to finish my first Software Developer internship. I'll be back to active contribution soon. Thank you for your understanding and patience!
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-livian-front-end-developer/) 
 
